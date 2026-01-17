@@ -1,16 +1,30 @@
-## Hi there 👋
+### Salut, je suis Lauraine KENFACK ! 👋
 
-<!--
-**raide3/raide3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante en **école d'ingénieur** (2ème année) passionnée par la **Data Science** et l'**Intelligence Artificielle**.
+Actuellement, je me perfectionne sur Python, Power BI, le Machine Learning, et la Business Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mes Compétences Techniques
+
+* **Langages :** Python 🐍, SQL, R
+* **Data Science :** Pandas, NumPy, Scikit-Learn
+* **Visualisation :** Power BI 📊, Matplotlib
+* **Outils :** Git, Jupyter Notebooks
+
+---
+
+### 🔭 Ce sur quoi je travaille actuellement
+
+* Je me forme sur les dernières avancées en **Deep Learning**.
+* Je réalise des analyses de données sur des problématiques économiques.
+* Je prépare la certification **PL-300 (Power BI)**.
+
+---
+
+### 📫 Me contacter
+
+* [Mon LinkedIn](https://www.linkedin.com/in/lauraine-kenfack/)
+* *Basée en France fr*
+
+![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=raide3&show_icons=true&theme=minimal)
