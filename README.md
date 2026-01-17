@@ -27,4 +27,4 @@ Actuellement, je me perfectionne sur Python, Power BI, le Machine Learning, et l
 * [Mon LinkedIn](https://www.linkedin.com/in/lauraine-kenfack/)
 * *Basée en France fr*
 
-![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=raide3&show_icons=true&theme=minimal)
+
